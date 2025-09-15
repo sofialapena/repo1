@@ -4,5 +4,5 @@
 
 ![Asset decorativo](https://github.com/sofialapena/repo1/blob/main/imagenes/mini_seta.png)
 
-`#00f3ff`
+`#00F3FF`
 
